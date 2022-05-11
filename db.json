@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "Chilly Spicy",
+      "email": "cs@gmail.com",
+      "mobile": "337333388",
+      "address": "bjkjlkxlwx",
+      "services": "Salads"
+    },
+    {
+      "id": 3,
+      "name": "Cafe de Light",
+      "email": "cd@gmail.com",
+      "mobile": "383939",
+      "address": "dbwxkdwxkwd",
+      "services": "Burger, Pizza"
+    },
+    {
+      "id": 4,
+      "name": "Juice Bar",
+      "email": "jb@gmail.com",
+      "mobile": "3467893",
+      "address": "dwjckwdvw",
+      "services": "Juice, Drinks"
+    },
+    {
+      "id": 6,
+      "name": "Riders Inn",
+      "email": "ri@gmail.com",
+      "mobile": "5678953",
+      "address": "vbhjnrkgmr",
+      "services": "Lacci, Faluda"
+    },
+    {
+      "id": 7,
+      "name": "ChilleKotha",
+      "email": "ck@gmail.com",
+      "mobile": "5647894",
+      "address": "dhjkdd",
+      "services": "Pasta, Juice"
+    }
+  ],
+  "signup": [
+    {
+      "name": "Abid",
+      "mobile": "456789",
+      "email": "a@gmai.com",
+      "password": "1234",
+      "id": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
